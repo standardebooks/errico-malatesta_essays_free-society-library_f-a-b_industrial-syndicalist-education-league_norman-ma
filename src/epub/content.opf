@@ -115,6 +115,7 @@
 		<item href="text/anarchists-have-forgotten-their-principles.xhtml" id="anarchists-have-forgotten-their-principles.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anarchy-and-violence.xhtml" id="anarchy-and-violence.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/anarchy.xhtml" id="anarchy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/anti-militarism.xhtml" id="anti-militarism.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/capitalists-and-thieves.xhtml" id="capitalists-and-thieves.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -139,6 +140,7 @@
 		<itemref idref="capitalists-and-thieves.xhtml"/>
 		<itemref idref="the-general-strike-and-the-insurrection-in-italy.xhtml"/>
 		<itemref idref="anarchists-have-forgotten-their-principles.xhtml"/>
+		<itemref idref="anti-militarism.xhtml"/>
 		<itemref idref="pro-government-anarchists.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
