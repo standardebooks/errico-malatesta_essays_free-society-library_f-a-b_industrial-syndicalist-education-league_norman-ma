@@ -28,21 +28,30 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Essays</dc:title>
 		<meta property="file-as" refines="#title">Essays</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Anarchism</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh85004812</meta>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">A collection of essays by Errico Malatesta.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Four abridged paragraphs from “Capitalist and Thieves” were restored thanks to a translation provided by an anonymous volunteer, who has agreed to release their translation as CC0.</meta>
+		<dc:language>en-GB</dc:language>
+		<!--Anarchy-->
+		<dc:source>https://www.gutenberg.org/ebooks/40365</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001746619</dc:source>
+		<!--A Bit of Theory-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-a-bit-of-theory</dc:source>
+		<dc:source>https://archive.org/details/freedom_1923.10_37.411</dc:source>
+		<!--The Duties of the Present Hour-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-the-duties-of-the-present-hour</dc:source>
+		<dc:source>https://archive.org/details/liberty-uk-aug-1894</dc:source>
+		<!--Anarchy and Violence-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anarchy-and-violence</dc:source>
+		<dc:source>https://archive.org/details/liberty-uk-sept-1894</dc:source>
+		<dc:source>https://archive.org/details/liberty-uk-oct-1894</dc:source>
+		<meta property="se:production-notes">Four abridged paragraphs from “Capitalist and Thieves” were restored thanks to a translation provided by Shawn P. Wilbur, who has agreed to release his translation as CC0.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
