@@ -51,6 +51,37 @@
 		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anarchy-and-violence</dc:source>
 		<dc:source>https://archive.org/details/liberty-uk-sept-1894</dc:source>
 		<dc:source>https://archive.org/details/liberty-uk-oct-1894</dc:source>
+		<!--Should Anarchists Be Admitted to the Coming International Congress?-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-should-anarchists-be-admitted-to-the-coming-international-congress</dc:source>
+		<dc:source>https://archive.org/details/labour-leader_1896-07-11</dc:source>
+		<!--Anarchism and Syndicalism-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anarchism-and-syndicalism</dc:source>
+		<dc:source>https://archive.org/details/freedom_1907.11_21.223</dc:source>
+		<!--Anarchists and the Situation-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anarchists-and-the-situation</dc:source>
+		<dc:source>https://archive.org/details/freedom_1909.06_23.242</dc:source>
+		<!--Capitalists and Thieves-->
+		<dc:source>https://catalog.hathitrust.org/Record/100697009</dc:source>
+		<dc:source>https://archive.org/details/les-temps-noveaux_1911-02-18</dc:source>
+		<!--The General Strike and the Insurrection in Italy-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-the-general-strike-and-the-insurrection-in-italy</dc:source>
+		<dc:source>https://archive.org/details/mother-earth/Mother%20Earth%20v09n06%20%281914-08%29%20%28c2c%20Harvard%20DSR%29</dc:source>
+		<!--Anarchists Have Forgotten Their Principles-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anarchists-have-forgotten-their-principles</dc:source>
+		<dc:source>https://archive.org/details/freedom_1914.11_28.307</dc:source>
+		<!--Anti-Militarism-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-anti-militarism-was-it-properly-understood</dc:source>
+		<dc:source>https://archive.org/details/freedom_1914.12_28.308</dc:source>
+		<!--Italy Also!-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-italy-also</dc:source>
+		<dc:source>https://archive.org/details/mother-earth/Mother%20Earth%20v10n05%20%281915-07%29%20%28c2c%20Harvard%29</dc:source>
+		<!--Pro-Government Anarchists-->
+		<dc:source>https://theanarchistlibrary.org/library/errico-malatesta-pro-government-anarchists</dc:source>
+		<dc:source>https://archive.org/details/freedom_1916.04_30.324</dc:source>
+		<!--The Dictatorship of the Proletariat and Anarchy-->
+		<dc:source>https://archive.org/details/sep-1921-liberator</dc:source>
+		<!--The Two Roads-->
+		<dc:source>https://archive.org/details/freedom-1921-08</dc:source>
 		<meta property="se:production-notes">Four abridged paragraphs from “Capitalist and Thieves” were restored thanks to a translation provided by Shawn P. Wilbur, who has agreed to release his translation as CC0.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
