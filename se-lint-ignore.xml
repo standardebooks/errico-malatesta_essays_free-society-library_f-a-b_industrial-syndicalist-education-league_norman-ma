@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="anarchy.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>The translation was done into American English, not British English.</reason>
+		</ignore>
+	</file>
+	<file path="the-dictatorship-of-the-proletariat-and-anarchy.xhtml">
+		<ignore>
+			<code>s-033</code>
+			<reason>The translation was done into American English, not British English.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
