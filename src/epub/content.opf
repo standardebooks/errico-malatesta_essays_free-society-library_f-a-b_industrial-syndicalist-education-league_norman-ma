@@ -85,25 +85,18 @@
 		<meta property="se:production-notes">Four abridged paragraphs from “Capitalist and Thieves” were restored thanks to a translation provided by Shawn P. Wilbur, who has agreed to release his translation as CC0.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Errico_Malatesta_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/errico-malatesta_essays_free-society-library_f-a-b_the-syndicalist_norman-matson_freedom</meta>
 		<dc:creator id="author">Errico Malatesta</dc:creator>
 		<meta property="file-as" refines="#author">Malatesta, Errico</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Errico_Malatesta</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79034395</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator-1">Free Society Library</dc:contributor>
 		<meta property="file-as" refines="#translator-1">Library, Free Society</meta>
-		<meta property="se:name.person.full-name" refines="#translator-1">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-1">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">F. A. B.</dc:contributor>
-		<meta property="file-as" refines="#translator-2">B., F. A.</meta>
-		<meta property="se:name.person.full-name" refines="#translator-2">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-2">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="file-as" refines="#translator-2">F. A. B.</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-3">The Syndicalist</dc:contributor>
 		<meta property="file-as" refines="#translator-3">Syndicalist, The</meta>
@@ -113,9 +106,8 @@
 		<meta property="role" refines="#translator-3" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-4">Norman Matson</dc:contributor>
 		<meta property="file-as" refines="#translator-4">Matson, Norman</meta>
-		<meta property="se:name.person.full-name" refines="#translator-4">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-4">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator-4">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator-4">Norman Häghejm Matson</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator-4">http://id.loc.gov/authorities/names/no93020499</meta>
 		<meta property="role" refines="#translator-4" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-5">Freedom</dc:contributor>
 		<meta property="file-as" refines="#translator-5">CONTRIBUTOR_SORT</meta>
