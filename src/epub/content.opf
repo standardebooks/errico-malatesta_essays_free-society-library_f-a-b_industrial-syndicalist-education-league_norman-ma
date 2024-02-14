@@ -126,11 +126,11 @@
 		<meta property="file-as" refines="#transcriber-2">Anarchist Library, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://theanarchistlibrary.org</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="contributor-1">Shawn P. Wilbur</dc:contributor>
-		<meta property="file-as" refines="#contributor-1">Wilbur, Shawn P.</meta>
-		<meta property="se:url.homepage" refines="#contributor-1">https://www.libertarian-labyrinth.org</meta>
-		<meta property="se:url.authority.nacoaf" refines="#contributor-1">http://id.loc.gov/authorities/names/no2018006107</meta>
-		<meta property="role" refines="#contributor-1" scheme="marc:relators">ctb</meta>
+		<dc:contributor id="correspondent-1">Shawn P. Wilbur</dc:contributor>
+		<meta property="file-as" refines="#correspondent-1">Wilbur, Shawn P.</meta>
+		<meta property="se:url.homepage" refines="#correspondent-1">https://www.libertarian-labyrinth.org</meta>
+		<meta property="se:url.authority.nacoaf" refines="#correspondent-1">http://id.loc.gov/authorities/names/no2018006107</meta>
+		<meta property="role" refines="#correspondent-1" scheme="marc:relators">crp</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia</meta>
